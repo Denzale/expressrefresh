@@ -18,7 +18,13 @@ const homies = [{
     routeName: "denzale",
     name: "denzale",
     age: 23
-}]
+},
+{
+    routeName: "Hikmat",
+    name: "hikmat",
+    age: 24
+}
+]
 
 
 
@@ -52,9 +58,11 @@ function whatToWear() {
 console.log (color)
 }
 
-if(whatToWear = "yellow") {
+if(whatToWear = arraySwap) {
 console.log ("Thats a good color!")
 
+} else {
+    console.log("I dont like that color")
 }
 //listener 
 //--------------------------------------
